@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1d6b49234a0f3f428e3da195558fe11
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Protobuf.Net/Licence.txt
+  uploadId: 709183

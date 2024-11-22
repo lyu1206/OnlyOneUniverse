@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4a97c3f2b779fe34188aca1ba2f10767
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEngine.MeshColliderSurrogate.cs
+  uploadId: 709183

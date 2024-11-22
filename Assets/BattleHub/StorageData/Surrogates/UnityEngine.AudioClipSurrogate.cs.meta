@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 488226c1ae0bac94fa5b0ed72f71833f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEngine.AudioClipSurrogate.cs
+  uploadId: 709183

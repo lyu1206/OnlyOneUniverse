@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 04e69f958b5433148a68e934381870d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.ShaderUtil/Runtime/RTShaderUtil.cs
+  uploadId: 709183

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83004f8bf6c014347b0085e3f9f278ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/Editor/Windows/CreateSurrogatesWindow.cs
+  uploadId: 709183

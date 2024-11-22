@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea3bb7c21e8a8724b9bf5095166c746c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/Battlehub.RTCommon.ExposeToEditorSurrogate.cs
+  uploadId: 709183

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fbacafafb73e2d649a2c4aa9d0d4ced4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEngine.CanvasSurrogate.cs
+  uploadId: 709183

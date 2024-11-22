@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9c78a448a5be90a4f967db448a6cf95d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage/Runtime/Interfaces/IThumbnailUtil.cs
+  uploadId: 709183

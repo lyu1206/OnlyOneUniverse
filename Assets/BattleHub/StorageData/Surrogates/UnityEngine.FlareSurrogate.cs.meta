@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c56c8279054613428154c0badb4665d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEngine.FlareSurrogate.cs
+  uploadId: 709183

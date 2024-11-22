@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83e2272ccfc10a3438ef4646e9b9ad7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEngine.UI.ColorBlockSurrogate.cs
+  uploadId: 709183

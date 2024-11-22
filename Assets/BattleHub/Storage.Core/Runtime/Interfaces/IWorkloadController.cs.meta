@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb125d5d61bddb045a8c6babfb25478d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/Runtime/Interfaces/IWorkloadController.cs
+  uploadId: 709183

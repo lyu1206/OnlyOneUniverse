@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 45c65f4d11f233540aa63a239682f548
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage/Editor/ExternalAssetListGen.cs
+  uploadId: 709183

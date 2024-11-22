@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40362691c5396da4db8b469072dde663
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/Runtime/Enumerators/ObjectEnumeratorPool.cs
+  uploadId: 709183

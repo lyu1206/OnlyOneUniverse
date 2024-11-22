@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d09231080504ea548a7f6636dc41050b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage/Runtime/Utils/LayerAttribute.cs
+  uploadId: 709183

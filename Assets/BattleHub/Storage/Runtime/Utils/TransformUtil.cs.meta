@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ccfb3eab7b4faa24cb90ce4fc93365cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage/Runtime/Utils/TransformUtil.cs
+  uploadId: 709183

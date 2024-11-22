@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2915bb09a8ed864e99ba7ede3aac65c
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 2099200
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/Resources/IsNormalMapCompute.compute
+  uploadId: 709183

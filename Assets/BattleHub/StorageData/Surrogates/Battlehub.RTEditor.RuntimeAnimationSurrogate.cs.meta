@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: da094fd87827d144e8258347485719e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/Battlehub.RTEditor.RuntimeAnimationSurrogate.cs
+  uploadId: 709183

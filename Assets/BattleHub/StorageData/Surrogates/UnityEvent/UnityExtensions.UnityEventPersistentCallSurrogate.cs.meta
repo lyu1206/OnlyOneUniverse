@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 60be6e73654f7ca41affc70854429a1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEvent/UnityExtensions.UnityEventPersistentCallSurrogate.cs
+  uploadId: 709183

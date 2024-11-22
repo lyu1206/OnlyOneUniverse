@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f369ea0a3af1bf64a9ef3ad9cde16e64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Generated/RuntimeAssetDatabaseHost.cs
+  uploadId: 709183

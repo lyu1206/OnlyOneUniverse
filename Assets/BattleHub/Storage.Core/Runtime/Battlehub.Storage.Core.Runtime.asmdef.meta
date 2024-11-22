@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 962b533f12105a74f86684e3ee087776
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/Runtime/Battlehub.Storage.Core.Runtime.asmdef
+  uploadId: 709183

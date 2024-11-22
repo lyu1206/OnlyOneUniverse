@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8de68d6e574d8ec4085a4218a432735b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage/Editor/StorageSerializerGen.cs
+  uploadId: 709183

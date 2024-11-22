@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f286201b865bec4588f98bbf82d56d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/Enumerators/UnityEngine.TerrainDataEnumerator.cs
+  uploadId: 709183

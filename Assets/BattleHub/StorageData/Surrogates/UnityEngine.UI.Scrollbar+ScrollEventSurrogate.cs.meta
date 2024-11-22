@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8b317d55b0207d4f9d892dd19d8ea67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEngine.UI.Scrollbar+ScrollEventSurrogate.cs
+  uploadId: 709183

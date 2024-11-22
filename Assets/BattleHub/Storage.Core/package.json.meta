@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15405be6f0406ab4ea4b94f54363fb33
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/package.json
+  uploadId: 709183

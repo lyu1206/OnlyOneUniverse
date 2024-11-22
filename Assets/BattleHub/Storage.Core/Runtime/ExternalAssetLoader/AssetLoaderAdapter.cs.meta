@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7317a60bd02f7d0449ee8f595726ce10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/Runtime/ExternalAssetLoader/AssetLoaderAdapter.cs
+  uploadId: 709183

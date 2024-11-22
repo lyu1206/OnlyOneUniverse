@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5757d9d90799a664d86da242c6c0c23b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.ShaderUtil/package.json
+  uploadId: 709183

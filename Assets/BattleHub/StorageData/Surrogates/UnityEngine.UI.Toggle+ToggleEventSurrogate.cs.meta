@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f56212b01fe8c244d81ab9bca9b0ae60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/UnityEngine.UI.Toggle+ToggleEventSurrogate.cs
+  uploadId: 709183

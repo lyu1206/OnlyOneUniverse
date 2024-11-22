@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e33478c5aa60614408c4d2bd3e136cc7
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 2099200
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/Storage.Core/Resources/HasTransparencyCompute.compute
+  uploadId: 709183

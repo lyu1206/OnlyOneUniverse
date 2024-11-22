@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aec2ce9c114cc3044903433b13d8f92a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64806
+  packageName: Runtime Editor
+  packageVersion: 4.4.8
+  assetPath: Assets/Battlehub/StorageData/Surrogates/Enumerators/UnityEngine.UI.SpriteStateEnumerator.cs
+  uploadId: 709183
