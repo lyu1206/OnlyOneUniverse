@@ -1,7 +1,7 @@
 #define Storage_Texture2D_Encode
 #if UNITY_STANDALONE_WIN
 //#define Storage_LoadTextureAsync_FreeImage
-using Battlehub.Utils;
+//using Battlehub.Utils;
 #endif
 
 using ProtoBuf;
