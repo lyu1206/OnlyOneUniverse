@@ -153,7 +153,7 @@ namespace Battlehub.Storage.Surrogates.UnityEngine
                     texture = new Texture2D(1, 1, TextureFormat.RGBA32, true, IsNormalMap);
                     idmap.AddObject(texture, ID);
                 }
-                await texture.LoadImageAsync(Data);
+                //await texture.LoadImageAsync(Data);
                 #endif
                 #else
                 Debug.LogError("Not Supported");
